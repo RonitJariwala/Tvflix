@@ -21,7 +21,7 @@ This project is a simple Vanilla JS project that demonstrates the following:
 
 ## Live Application URL
 
-You can access the live application at: [https://mrchetan005.github.io/Tvflix/](https://mrchetan005.github.io/Tvflix/)
+You can access the live application at: [https://ronitjariwala.github.io/Tvflix/](https://ronitjariwala.github.io/Tvflix/movie-list.html)
 
 ## Contributing
 
