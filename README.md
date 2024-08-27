@@ -1,6 +1,6 @@
 # Tvflix
 
-![Tvflix-home](https://github.com/RonitJariwala/Tvflix/blob/2c10e76ad78f228513be6423300bd6fde18feb12/assets/images/Screenshot%20(232).png)
+![Tvflix-home](https://github.com/RonitJariwala/Tvflix/blob/f33283e798fb37e483542a43665444313b9af595/assets/images/Screenshot%20(236).png)
 
 
 ## About this Repo
@@ -13,11 +13,11 @@ This project is a simple Vanilla JS project that demonstrates the following:
 
 ## Demo Images
 
-![Tvflix-genre](https://github.com/RonitJariwala/Tvflix/blob/2c10e76ad78f228513be6423300bd6fde18feb12/assets/images/Screenshot%20(233).png)
+![Tvflix-genre](https://github.com/RonitJariwala/Tvflix/blob/f33283e798fb37e483542a43665444313b9af595/assets/images/Screenshot%20(237).png)
 
-![image](https://github.com/RonitJariwala/Tvflix/blob/2c10e76ad78f228513be6423300bd6fde18feb12/assets/images/Screenshot%20(234).png)
+![image](https://github.com/RonitJariwala/Tvflix/blob/f33283e798fb37e483542a43665444313b9af595/assets/images/Screenshot%20(235).png)
 
-![image](https://github.com/mrchetan005/Tvflix/assets/112335175/1be4c536-1ba5-4fff-8222-2cdf0ff95159)
+![image](https://github.com/RonitJariwala/Tvflix/blob/f33283e798fb37e483542a43665444313b9af595/assets/images/Screenshot%20(234).png)
 
 ## Live Application URL
 
