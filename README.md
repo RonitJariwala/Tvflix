@@ -19,6 +19,9 @@ This project is a simple Vanilla JS project that demonstrates the following:
 
 ![image](https://github.com/RonitJariwala/Tvflix/blob/f33283e798fb37e483542a43665444313b9af595/assets/images/Screenshot%20(234).png)
 
+![image](https://github.com/RonitJariwala/Tvflix/blob/c82da6619fa842febaeea4a993db7901a72b5ee5/assets/images/Screenshot%20(238).png)
+
+
 ## Live Application URL
 
 You can access the live application at: [https://ronitjariwala.github.io/Tvflix/](https://ronitjariwala.github.io/Tvflix/movie-list.html)
