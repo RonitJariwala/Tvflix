@@ -13,9 +13,9 @@ This project is a simple Vanilla JS project that demonstrates the following:
 
 ## Demo Images
 
-![Tvflix-genre](https://github.com/mrchetan005/Tvflix/assets/112335175/d930cf46-f7fc-42f3-9227-c567eefa6e03)
+![Tvflix-genre](https://github.com/RonitJariwala/Tvflix/blob/2c10e76ad78f228513be6423300bd6fde18feb12/assets/images/Screenshot%20(233).png)
 
-![image](https://github.com/mrchetan005/Tvflix/assets/112335175/931af4a3-49fd-4303-bc5a-fcb46021eb3b)
+![image](https://github.com/RonitJariwala/Tvflix/blob/2c10e76ad78f228513be6423300bd6fde18feb12/assets/images/Screenshot%20(234).png)
 
 ![image](https://github.com/mrchetan005/Tvflix/assets/112335175/1be4c536-1ba5-4fff-8222-2cdf0ff95159)
 
